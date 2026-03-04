@@ -1,0 +1,1 @@
+web: streamlit run mf_quant_lab.py --server.port 8501 --server.address 0.0.0.0
