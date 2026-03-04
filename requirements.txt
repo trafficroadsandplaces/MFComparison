@@ -6,3 +6,4 @@ yfinance
 quantstats
 plotly
 statsmodels
+deprecated
